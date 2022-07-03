@@ -1,0 +1,2 @@
+# Uygulamalar
+www.patika.dev
